@@ -1,0 +1,4 @@
+pdfplumber
+scikit-learn
+sentence-transformers
+torch
