@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": {
+      "role": "Investment Analyst",
+      "expertise": "Technology Sector Analysis",
+      "focus_areas": [
+        "Revenue trends",
+        "R&D investment",
+        "market positioning"
+      ]
+    },
+    "job_to_be_done": {
+      "task": "Analyze revenue trends, R&D investments, and market positioning strategies."
+    },
+    "processing_timestamp": "2025-07-28T18:38:45.818067"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Full Text",
+      "importance_rank": 1,
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Full Text",
+      "importance_rank": 2,
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Full Text",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Full Text",
+      "importance_rank": 4,
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Full Text",
+      "importance_rank": 5,
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Full Text",
+      "importance_rank": 6,
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Full Text",
+      "importance_rank": 7,
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Full Text",
+      "importance_rank": 8,
+      "page_number": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Shopping and Markets The South of France is a shopper's paradise, with a variety of markets, boutiques, and artisan shops: Local Markets \u2022 Nice: Explore the vibrant Cours Saleya Market. \u2022 Cannes: Visit March\u00e9 Forville for fresh seafood and local produce. \u2022 Avignon: Discover local products at March\u00e9 des Halles. \u2022 Aix-en-Provence: Browse the stalls at the daily market on Place Richelme. \u2022 Saint-R\u00e9my-de-Provence: Enjoy the lively Wednesday market with local specialties. \u2022 Uz\u00e8s: Visit the Saturday market for fresh produce and artisanal goods. \u2022 Sarlat: Explore the bustling market in the heart of the medieval town. Boutique Shopping \u2022 Cannes: Shop along the famous Rue d'Antibes, lined with high-end boutiques, designer stores, and luxury brands. \u2022 Aix-en-Provence: Browse shops and cafes on Cours Mirabeau, an elegant boulevard with a variety of stores. \u2022 Nice: Find charming boutiques in the old town, offering handmade soaps, ceramics, and local crafts. \u2022 Saint-Tropez: Explore the chic boutiques and designer stores in this glamorous town. \u2022 Marseille: Visit the trendy shops in the Le Panier district, known for its artisan goods and unique finds. \u2022 Montpellier: Discover the boutiques in the historic \u00c9cusson district, offering fashion, jewelry, and art. \u2022 Toulouse: Shop in the vibrant Capi",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "Culinary Experiences In addition to dining at top restaurants, there are several culinary experiences you should consider: \u2022 Cooking Classes: Many towns and cities in the South of France offer cooking classes where you can learn to prepare traditional dishes like bouillabaisse, ratatouille, and tarte trop\u00e9zienne. These classes are a great way to immerse yourself in the local culture and gain hands-on experience with regional recipes. Some classes even include a visit to a local market to shop for fresh ingredients. \u2022 Food Markets: Visit local markets such as the Cours Saleya Market in Nice or the March\u00e9 Forville in Cannes to sample fresh produce, cheeses, and charcuterie. These markets are a feast for the senses, with stalls overflowing with colorful fruits and vegetables, fragrant herbs, and artisanal products. Take the time to chat with the vendors and learn about the local specialties. \u2022 Wine Tours: The South of France is renowned for its wine regions, including Provence and Languedoc. Take a wine tour to visit vineyards, taste local wines, and learn about the winemaking process. Many wineries offer guided tours and tastings, giving you the opportunity to sample a variety of wines and discover new favorites. Don't miss the chance to try ros\u00e9 from Provence, which is famous for ",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Comprehensive Guide to Restaurants and Hotels in the South of France Introduction The South of France, known for its stunning landscapes, rich cultural heritage, and exquisite cuisine, is a dream destination for travelers. From the glamorous beaches of the French Riviera to the charming villages of Provence, this region offers a diverse array of experiences. Whether you're looking for budget-friendly options, family-friendly spots, upscale dining, or luxurious experiences, this guide will help you find the perfect restaurants and hotels for your trip.",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Overview of the Region The South of France, or \"Le Midi,\" encompasses the regions of Provence-Alpes-C\u00f4te d'Azur, Occitanie, and parts of Nouvelle-Aquitaine. This area is renowned for its diverse landscapes, from the sun-drenched beaches of the French Riviera to the rolling vineyards of Provence and the rugged Pyrenees mountains. The Mediterranean climate ensures warm summers and mild winters, making it a year-round destination. The South of France is also famous for its cuisine, wines, and vibrant cultural scene. Travel Tips \u2022 Best Time to Visit: The best time to visit the South of France is during the spring (April to June) and fall (September to October) when the weather is pleasant, and the tourist crowds are smaller. \u2022 Transportation: The region is well-connected by an extensive network of trains, buses, and flights. Renting a car is also a great option for exploring the countryside and smaller towns. \u2022 Language: While French is the official language, English is widely spoken in tourist areas. Learning a few basic French phrases can enhance your travel experience.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "\u2022 Additional Tips: Download maps and travel guides to your devices for offline use. Consider bringing a portable Wi-Fi hotspot for reliable internet access.",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Aix-en-Provence: A City of Art and Culture History Aix-en-Provence, founded by the Romans in 123 BC, is known for its elegant architecture, vibrant cultural scene, and association with the painter Paul C\u00e9zanne. The city's rich history is reflected in its beautiful buildings and lively atmosphere. Aix-en-Provence has been a center of art and learning for centuries, attracting artists, writers, and scholars. Key Attractions \u2022 Cours Mirabeau: This grand boulevard, lined with plane trees, cafes, and fountains, is the heart of Aix-en-Provence. It is a great place to soak up the city's atmosphere. \u2022 Saint-Sauveur Cathedral: This cathedral, built between the 5th and 17th centuries, features a mix of architectural styles, including Romanesque, Gothic, and Baroque. It is known for its beautiful cloister and triptych by Nicolas Froment. \u2022 H\u00f4tel de Ville: The town hall of Aix-en-Provence, built in the 17th century, is an elegant building with a beautiful clock tower and an ornate facade. The square in front of the H\u00f4tel de Ville is a lively spot, often hosting markets and events. \u2022 Atelier C\u00e9zanne: The studio of Paul C\u00e9zanne, one of the most famous painters associated with Aix-en-Provence, is preserved as a museum. Visitors can see where C\u00e9zanne created many of his masterpieces and gain ins",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "Aix-en-Provence: A City of Art and Culture Aix-en-Provence, founded by the Romans in 123 BC, is known for its elegant architecture, vibrant cultural scene, and association with the painter Paul C\u00e9zanne. The city's rich history is reflected in its beautiful buildings and lively atmosphere. Key Historical Sites in Aix-en-Provence \u2022 Cours Mirabeau: This grand boulevard, lined with plane trees, cafes, and fountains, is the heart of Aix-en-Provence. It is a great place to soak up the city's atmosphere. \u2022 Saint-Sauveur Cathedral: This cathedral, built between the 5th and 17th centuries, features a mix of architectural styles, including Romanesque, Gothic, and Baroque. It is known for its beautiful cloister and triptych by Nicolas Froment. \u2022 H\u00f4tel de Ville: The town hall of Aix-en-Provence, built in the 17th century, is an elegant building with a beautiful clock tower and an ornate facade. The square in front of the H\u00f4tel de Ville is a lively spot, often hosting markets and events. \u2022 Atelier C\u00e9zanne: The studio of Paul C\u00e9zanne, one of the most famous painters associated with Aix-en-Provence, is preserved as a museum. Visitors can see where C\u00e9zanne created many of his masterpieces and gain insight into his artistic process. \u2022 Thermal Springs: Aix-en-Provence was originally founded as a R",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Culinary Delights The South of France is a food lover's paradise. Here are some activities to indulge in the region's culinary delights: Wine Tasting \u2022 Provence: Explore vineyards known for their ros\u00e9 wines. \u2022 Languedoc: Discover diverse wines, including reds, whites, and sparkling wines. \u2022 Ch\u00e2teauneuf-du-Pape: Visit this famous wine region near Avignon. \u2022 Bandol: Taste the robust red wines and refreshing ros\u00e9s of this coastal region. \u2022 C\u00f4tes du Rh\u00f4ne: Explore the vineyards along the Rh\u00f4ne River. \u2022 Gaillac: Discover the unique wines of this lesser-known region. \u2022 Bordeaux: Take a day trip to the world-renowned wine region and visit its prestigious ch\u00e2teaux. Cooking Classes \u2022 Provence: Learn to prepare traditional dishes like ratatouille and bouillabaisse. \u2022 P\u00e9rigord: Join a truffle hunting tour followed by a cooking class. \u2022 Nice: Take a class to master Ni\u00e7oise cuisine, including dishes like salade ni\u00e7oise and socca. \u2022 Toulouse: Learn to cook regional specialties such as cassoulet. \u2022 Marseille: Participate in a seafood cooking class to make dishes like bouillabaisse. \u2022 Lyon: Discover the secrets of Lyonnaise cuisine with a hands-on cooking class. \u2022 Sarlat: Join a foie gras workshop and learn to prepare this delicacy.",
+      "page_number": 5
+    }
+  ]
+}
