@@ -1,0 +1,4 @@
+docker build --platform linux/amd64 -t pdf-processor .
+
+
+docker run --rm -v "${pwd}/input:/app/input:ro" -v "${pwd}/output:/app/output" --network none pdf-processor
