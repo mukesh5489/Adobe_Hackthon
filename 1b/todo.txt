@@ -1,0 +1,5 @@
+docker build -t persona-doc-intel .
+
+
+
+docker run -it --rm -v "${PWD}/data:/app/data" persona-doc-intel
